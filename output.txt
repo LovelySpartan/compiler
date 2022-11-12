@@ -1,0 +1,10 @@
+   while   keywords
+(   separator
+s   idenifier
+<   operator
+    upper   idenifier
+)   separator
+t   idenifier
+=   operator
+    33.00   real
+;   separator
